@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hero APP</string>
+
+    <string name="intelligence">Intelligence:</string>
+    <string name="strength">Strength:</string>
+    <string name="speed">Speed:</string>
+    <string name="durability">Durability:</string>
+    <string name="power">Power:</string>
+    <string name="combat">Combat:</string>
+
+    <string name="biography">Biography:</string>
+    <string name="fullName">Full Name:</string>
+    <string name="alterEgos">AlterEgos:</string>
+    <string name="placeOfBirth">Place Of Birth:</string>
+    <string name="firstAppearance">First Appearance:</string>
+    <string name="publisher">Publisher:</string>
+    <string name="alignment">Alignment:</string>
+
+    <string name="appearance">Appearance:</string>
+    <string name="gender">Gender:</string>
+    <string name="race">Race:</string>
+    <string name="eyeColor">EyeColor:</string>
+    <string name="hairColor">HairColor:</string>
+</resources>
